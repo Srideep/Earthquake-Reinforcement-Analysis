@@ -43,5 +43,7 @@ Table for showing top 10 items of the earthquake dataset
 
 ## Plate Boundries Visualization
 <center>
-<img src="q_1.html" width="450"><br/>
+<figure class="Plane Visualization">
+<iframe src="file:///C:/Users/srideep%20ctr%20maulik/Downloads/q_1.html"></iframe>
+</figure>
 </center>
