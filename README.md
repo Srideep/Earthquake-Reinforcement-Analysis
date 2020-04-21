@@ -46,3 +46,10 @@ Table for showing top 10 items of the earthquake dataset
 <img src="plane_boundry_japan.png" width="450"><br/>
 </center>
 
+## Visualization : Relationship between earthquake depth and proximity to a plate boundary in Japan
+Red circle marker represent earthquake happening at 20 km depth, while green between 20 km and 800 km
+Earthquake happening at 20 km depth is considered as [shallow earthquake](https://www.usgs.gov/faqs/what-depth-do-earthquakes-occur-what-significance-depth?qt-news_science_products=0#qt-news_science_products)
+
+<center>
+<img src="earthquake_depths_japan.png" width="450"><br/>
+</center>
