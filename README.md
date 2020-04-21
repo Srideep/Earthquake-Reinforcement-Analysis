@@ -43,7 +43,6 @@ Table for showing top 10 items of the earthquake dataset
 
 ## Plate Boundries Visualization
 <center>
-<figure class="Plane Visualization">
-<iframe src="file:///C:/Users/srideep%20ctr%20maulik/Downloads/q_1.html"></iframe>
-</figure>
+<img src="plane_boundry_japan.png" width="450"><br/>
 </center>
+
