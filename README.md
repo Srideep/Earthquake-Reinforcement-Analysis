@@ -41,3 +41,7 @@ Table for showing top 10 items of the earthquake dataset
 | 1970-01-26 10:01:20.500 | -12.579  | 166.370   | 50.0  | 6.4       | Ms      | 91.0       | NaN | NaN      | 0.0 | NEI    | 1.970013e+09 |
 | 1970-02-04 05:08:48.000 | 15.532   | -99.484   | 21.0  | 6.5       | Ms      | 100.0      | NaN | NaN      | 0.0 | NEI    | 1.970020e+09 |
 
+## Plate Boundries Visualization
+<center>
+<img src="q_1.html" width="450"><br/>
+</center>
