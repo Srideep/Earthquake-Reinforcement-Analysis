@@ -11,6 +11,7 @@ This project is used as an urban safety planning template in order to analyze an
 
 # Earthquakes & Global Plate Boundaries
 ## Plate Boundaries Dataset
+Table for showing top 10 items of the plane boundries dataset
 
 | HAZ_PLATES 	| HAZ_PLAT_1                                        	| HAZ_PLAT_2 	| Shape_Leng 	| coordinates                                       	|
 |------------	|---------------------------------------------------	|------------	|------------	|---------------------------------------------------	|
