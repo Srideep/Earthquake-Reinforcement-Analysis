@@ -6,7 +6,7 @@ Geospatial Analysis of Japan's Earthquake Reinforcement
 This project is used as an urban safety planning template in order to analyze and locate areas of Japan that need extra earthquake reinforcement which are prone to earthquakes and have high population density.
 
 <center>
-<img src="https://i.imgur.com/Kuh9gPj.png" width="450"><br/>
+<img src="https://i.imgur.com/Kuh9gPj.png" width="600"><br/>
 </center>
 
 # Earthquakes & Global Plate Boundaries
@@ -43,7 +43,7 @@ Table for showing top 10 items of the earthquake dataset
 
 ## Visualization: Plate Boundries in Japan
 <center>
-<img src="plane_boundry_japan.png" width="450"><br/>
+<img src="plane_boundry_japan.png" width="600"><br/>
 </center>
 
 ## Visualization : Earthquake Depth  & Plate Boundary Proximity Relationship in Japan
@@ -51,7 +51,7 @@ Red circle marker represent earthquake happening at 20 km depth, while green bet
 Earthquake happening at 20 km depth is considered as [shallow earthquake](https://www.usgs.gov/faqs/what-depth-do-earthquakes-occur-what-significance-depth?qt-news_science_products=0#qt-news_science_products)
 
 <center>
-<img src="earthquake_depths_japan.png" width="450"><br/>
+<img src="earthquake_depths_japan.png" width="600"><br/>
 </center>
 
 ## Japan High Population  Density  Areas
