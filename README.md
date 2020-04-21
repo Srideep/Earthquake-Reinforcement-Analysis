@@ -41,12 +41,12 @@ Table for showing top 10 items of the earthquake dataset
 | 1970-01-26 10:01:20.500 | -12.579  | 166.370   | 50.0  | 6.4       | Ms      | 91.0       | NaN | NaN      | 0.0 | NEI    | 1.970013e+09 |
 | 1970-02-04 05:08:48.000 | 15.532   | -99.484   | 21.0  | 6.5       | Ms      | 100.0      | NaN | NaN      | 0.0 | NEI    | 1.970020e+09 |
 
-## Plate Boundries Visualization
+## Visualization: Plate Boundries in Japan
 <center>
 <img src="plane_boundry_japan.png" width="450"><br/>
 </center>
 
-## Visualization : Relationship between earthquake depth and proximity to a plate boundary in Japan
+## Visualization : Earthquake Depth  & Plate Boundary Proximity Relationship in Japan
 Red circle marker represent earthquake happening at 20 km depth, while green between 20 km and 800 km
 Earthquake happening at 20 km depth is considered as [shallow earthquake](https://www.usgs.gov/faqs/what-depth-do-earthquakes-occur-what-significance-depth?qt-news_science_products=0#qt-news_science_products)
 
