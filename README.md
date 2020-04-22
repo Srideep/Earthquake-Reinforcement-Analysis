@@ -59,4 +59,7 @@ Earthquake happening at 20 km depth is considered as [shallow earthquake](https:
 <img src="japan_population_density.png" width="600"><br/>
 </center>
 
-
+## Visualization: Japan high-density prefecture is prone to high-magnitude earthquakes
+<center>
+<img src="japan_population_earthquake_combined.png" width="600"><br/>
+</center>
